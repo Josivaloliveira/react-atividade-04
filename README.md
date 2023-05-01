@@ -1,5 +1,5 @@
 
-# 🍕 Plus Pizza
+#  Plus Pizza
 
 Atividade da Unidade 04, do curso (Front-end Development). 
 
